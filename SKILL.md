@@ -33,4 +33,4 @@ description: 根据人物原照与文案，调用六种照片封面模板生成3
 
 发布版 v1.0（2026-09-15）：保留原六款模板，追加作者、来源与许可说明。
 
-作者联系方式：https://github.com/gafata168-cell/photo-cover-six#作者与反馈 （内附微信二维码）。
+交流群入口：https://github.com/gafata168-cell/photo-cover-six#作者与反馈 （内附书生封面 Skill 交流群二维码与有效期）。
