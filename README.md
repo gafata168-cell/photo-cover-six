@@ -17,12 +17,12 @@
 
 | 01 绿色色块 · 抓眼 | 02 红色错位 · 设计感 | 03 粉色杂志 · 精致感 |
 | --- | --- | --- |
-| ![绿色色块封面](preview-01-green.png) | ![红色错位封面](preview-02-red.png) | ![粉色杂志封面](preview-03-pink.png) |
+| <img src="preview-01-green.png" alt="绿色色块封面" width="260"> | <img src="preview-02-red.png" alt="红色错位封面" width="260"> | <img src="preview-03-pink.png" alt="粉色杂志封面" width="260"> |
 | 亮绿色点缀关键词。 | 大字拆到两边，一高一低。 | 标题大小变化，配色块与淡英文。 |
 
 | 04 黄色满版 · 主角感 | 05 冷蓝光影 · 故事感 | 06 蓝黄手写 · 松弛感 |
 | --- | --- | --- |
-| ![黄色满版封面](preview-04-yellow.png) | ![冷蓝光影封面](preview-05-blue.png) | ![蓝黄手写封面](preview-06-handwriting.png) |
+| <img src="preview-04-yellow.png" alt="黄色满版封面" width="260"> | <img src="preview-05-blue.png" alt="冷蓝光影封面" width="260"> | <img src="preview-06-handwriting.png" alt="蓝黄手写封面" width="260"> |
 | 粗犷大字撑满，人物居中，投影落地。 | 冷蓝场景、窗光与疏密排字。 | 斜向手写，配蓝天草地。 |
 
 前三款主要保留原照动作与场景；后三款会按风格调整空间、姿势或补全人物。照片中的人物身份始终需要保留。
