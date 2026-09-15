@@ -102,7 +102,7 @@ Skill 的演示设置为 **图片 5.0 Pro、3:4、2K**。生成前确认实际�
 
 **扫码加入「书生封面 Skill 交流群」**，交流封面制作、Skill 用法与生成效果。
 
-<a href="contact-wechat.png"><img src="contact-wechat.png" alt="书生封面 Skill 交流群二维码" width="300"></a>
+<a href="contact-group.png"><img src="contact-group.png" alt="书生封面 Skill 交流群二维码" width="300"></a>
 
 点击图片可查看原图，也可以保存后在微信中识别。当前群二维码标注有效期为 **2026 年 9 月 19 日前**；失效后请查看[飞书教程](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)中的最新入群方式。
 
