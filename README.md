@@ -6,7 +6,7 @@
 
 这份 Skill 把六种封面的配色、字体、排版、人物关系与检查要求整理成了一份可复用的工作说明书。六款共用一组文案，也可以单独选择喜欢的样式。
 
-**[下载 SKILL.md](https://github.com/gafata168-cell/photo-cover-six/raw/refs/heads/main/SKILL.md) · [完整图文教程](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd) · [打开即梦](https://jimeng.jianying.com/ai-tool/home?createTab=canvas)**
+**[下载 SKILL.md](https://github.com/gafata168-cell/photo-cover-six/raw/refs/heads/main/SKILL.md) · [完整图文教程](https://my.feishu.cn/wiki/SmX3wcvsbiGpA8ks6tGcQRcenYd) · [工具与教程合集](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd) · [打开即梦](https://jimeng.jianying.com/ai-tool/home?createTab=canvas)**
 
 > **推荐使用即梦「图片 5.0 Pro / Seedream 5.0 Pro」，在画布中操作。**
 > 也可以在具备图片生成能力的 Codex 中，调用 GPT 图片模型使用这套规则。模型权限、会员和生成额度以各平台当前账号页面为准。
@@ -50,7 +50,7 @@ Skill 的演示设置为 **图片 5.0 Pro、3:4、2K**。生成前确认实际�
 用这个 Skill，只生成“冷蓝光影”这一款。主标题“你的标题”，副标题“你的副标题”，署名“你的名字”。
 ```
 
-每一步的截图、操作演示与更多说明，都在[飞书图文教程](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)中。
+每一步的截图、操作演示与更多说明，都在[飞书图文教程](https://my.feishu.cn/wiki/SmX3wcvsbiGpA8ks6tGcQRcenYd)中。
 
 ## 在 Codex 中使用
 
@@ -104,8 +104,8 @@ Skill 的演示设置为 **图片 5.0 Pro、3:4、2K**。生成前确认实际�
 
 <a href="contact-group.png"><img src="contact-group.png" alt="书生封面 Skill 交流群二维码" width="300"></a>
 
-点击图片可查看原图，也可以保存后在微信中识别。当前群二维码标注有效期为 **2026 年 9 月 19 日前**；失效后请查看[飞书教程](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)中的最新入群方式。
+点击图片可查看原图，也可以保存后在微信中识别。当前群二维码标注有效期为 **2026 年 9 月 27 日前**；失效后请查看[工具与教程合集](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)中的最新入群方式。
 
-使用问题可以在仓库 Issues 留言，附上使用平台、模型名称和具体问题；更多操作说明与联系方式见[完整教程](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)。
+使用问题可以在仓库 Issues 留言，附上使用平台、模型名称和具体问题；更多操作说明与联系方式见[完整教程](https://my.feishu.cn/wiki/SmX3wcvsbiGpA8ks6tGcQRcenYd)。
 
 模型名称参考：[Seedream 5.0 Pro 官方介绍](https://seed.bytedance.com/en/seedream5_0_pro)。
